@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/DASS_Assignment_Part-1/static/css/main.d223ca0b.css",
-    "main.js": "/DASS_Assignment_Part-1/static/js/main.1633b8e3.js",
+    "main.css": "/DASS_Assignment_Part-1/static/css/main.5602de90.css",
+    "main.js": "/DASS_Assignment_Part-1/static/js/main.d7f5d76a.js",
     "static/media/profile.jpg": "/DASS_Assignment_Part-1/static/media/profile.a31b6f08c3a894e16177.jpg",
     "index.html": "/DASS_Assignment_Part-1/index.html",
-    "main.d223ca0b.css.map": "/DASS_Assignment_Part-1/static/css/main.d223ca0b.css.map",
-    "main.1633b8e3.js.map": "/DASS_Assignment_Part-1/static/js/main.1633b8e3.js.map"
+    "main.5602de90.css.map": "/DASS_Assignment_Part-1/static/css/main.5602de90.css.map",
+    "main.d7f5d76a.js.map": "/DASS_Assignment_Part-1/static/js/main.d7f5d76a.js.map"
   },
   "entrypoints": [
-    "static/css/main.d223ca0b.css",
-    "static/js/main.1633b8e3.js"
+    "static/css/main.5602de90.css",
+    "static/js/main.d7f5d76a.js"
   ]
 }
